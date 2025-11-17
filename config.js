@@ -1,2 +1,2 @@
-console.log("version2 updated");
+console.log("version2 updated for github");
 console.log("config");
